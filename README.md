@@ -1,4 +1,4 @@
-## BSLC
+## BSLC [![GoDoc](https://godoc.org/github.com/ragnar-johannsson/bslc?status.png)](https://godoc.org/github.com/ragnar-johannsson/bslc)
 
 Package bslc provides an IP bound crawler with channel based delivery of crawled content.
 
